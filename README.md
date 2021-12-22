@@ -13,5 +13,3 @@
 <h2>O que é uma Landing Page</h2>
 
 <p>São páginas de conversão que têm o sentindo de atrair os usuários de forma que inscrevam, comprem ou utilizem determinado serviço.</p>
-
-<h3>Informações Adicionais - Anotações do Vídeo</h3>
